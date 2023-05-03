@@ -13,7 +13,9 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript- plain.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"         src="https://i.pinimg.com/originals/94/5f/7e/945f7e9968d1da2c0614c9f944961c47.gif">
+  
+  <!-- gif -->
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"    src="https://i.pinimg.com/originals/fc/fa/90/fcfa90bbda7e1e72f5c273a046921707.gif">
 </div>
   
   ##
