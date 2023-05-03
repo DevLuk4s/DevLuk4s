@@ -13,7 +13,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <!-- gif -->
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/5Mys.mp4">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/Lucas/Downloads/5Mys.gif">
 </div>
   
   ##
