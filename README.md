@@ -15,7 +15,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript- plain.svg">
   
   <!-- gif -->
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"    src="https://i.pinimg.com/originals/fc/fa/90/fcfa90bbda7e1e72f5c273a046921707.gif">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/Td9n.gif">
 </div>
   
   ##
