@@ -13,7 +13,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <!-- gif -->
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4a/29/97/4a2997ff3bc339c9f1527b1a19ec9f40.gif">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8863a989-904d-45f3-a2e8-2422e7add255/d5hp8gy-e42d09a7-5128-4be2-ab18-2918b2d94657.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NjNhOTg5LTkwNGQtNDVmMy1hMmU4LTI0MjJlN2FkZDI1NVwvZDVocDhneS1lNDJkMDlhNy01MTI4LTRiZTItYWIxOC0yOTE4YjJkOTQ2NTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a7us8bAdpvFhPbxAvoKq9ns-cA4wt5hxwPrplFr_gbs">
 </div>
   
   ##
