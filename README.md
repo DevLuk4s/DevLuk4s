@@ -1,8 +1,6 @@
 ## Olá!
 
 - 📚 Estudando Programação
-- 📚 Estudando Marketing digital
-- 📚 Estudando Photoshop
 
 <div align="center">
   <a href="https://github.com/DevLuk4s">
