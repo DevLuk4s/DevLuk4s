@@ -1,4 +1,4 @@
-## Olá! meu nome Lucas Gabriel sou um apaixonado por programação
+## Olá! meu nome Lucas Gabriel sou um apaixonado por programação seja bem vindo.
 
 - 📚 Estudando Programação
 
