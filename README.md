@@ -1,8 +1,8 @@
-<h2 align="center">Hi , I'm Lucas Gabriel</h2>
+<h1 align="center">Hi , I'm Lucas Gabriel</h1>
 
 <br/>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&lines=welcome+to+my+profile!;I'm+a+programming+student;front+end+and+back+end+focused;ready+to+participate+in+important+projects" alt="Typing SVG" /></a></div>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=412064&center=true&vCenter=true&random=false&width=500&lines=welcome+to+my+profile!;I'm+a+programming+student;front+end+and+back+end+focused;ready+to+participate+in+important+projects" alt="Typing SVG" /></a></p>
 
 ##
 
