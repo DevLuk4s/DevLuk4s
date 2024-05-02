@@ -1,6 +1,4 @@
-## Olá!
-
-- 📚 Estudando Programação
+<div>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C2B92&center=&vCenter=&repeat=&random=falso&width=500&lines=welcome+to+my+profile!;I'm+a+programming+student;front-end+and+back-end+focused;ready+to+participate+in+important+projects)](https://git.io/typing-svg)</div>
 
 <div align="center">
   <a href="https://github.com/DevLuk4s">
@@ -21,7 +19,7 @@
   
   
   <!-- gif -->
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8863a989-904d-45f3-a2e8-2422e7add255/d5hp8gy-e42d09a7-5128-4be2-ab18-2918b2d94657.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4NjNhOTg5LTkwNGQtNDVmMy1hMmU4LTI0MjJlN2FkZDI1NVwvZDVocDhneS1lNDJkMDlhNy01MTI4LTRiZTItYWIxOC0yOTE4YjJkOTQ2NTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a7us8bAdpvFhPbxAvoKq9ns-cA4wt5hxwPrplFr_gbs">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif">
 </div>
   
   ##
