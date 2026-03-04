@@ -39,7 +39,10 @@
 </div>
   
 <div>
+  <!-- insta -->
   <a href="https://www.instagram.com/devluk4s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- Linkedin -->
   <a href="https://www.linkedin.com/in/lucas-gabriel-a1525124b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-2-0-ivory-seven.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+  <!-- portifolio -->
+  <a href="https://portifolio-3-0-silk.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
 </div>
