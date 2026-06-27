@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=160952&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+TI+%7C+Desenvolvedor+Front-end+%26+Back-end;Next.js+%2F+React+%2F+TypeScript+%2F+Node.js;Sempre+aprendendo%2C+sempre+construindo;Aberto+a+oportunidades+e+projetos!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=160952&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Front-end+%26+Back-end;Next.js+%2F+React+%2F+TypeScript+%2F+Node.js;Sempre+aprendendo%2C+sempre+construindo;Aberto+a+oportunidades+e+projetos!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,11 +14,11 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de TI e desenvolvedor focado em **front-end e back-end**, construindo projetos reais com **Next.js, TypeScript, React e Node.js**. Gosto de transformar ideias em produtos funcionais — do design à entrega.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em **front-end e back-end**, construindo projetos reais com **Next.js, TypeScript, React e Node.js**. Gosto de transformar ideias em produtos funcionais — do design à entrega.
 
 Atualmente buscando **oportunidades, projetos e parcerias** na área de desenvolvimento web.
 
-- 🎓 Estudando TI (cloud computing, segurança da informação, redes, C, bancos de dados)
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (cloud computing, segurança da informação, redes, C, bancos de dados)
 - 💻 Trabalho com projetos freelance de sites para pequenos negócios
 - 🛠️ Stack principal: **Next.js · TypeScript · Tailwind · Framer Motion · shadcn/ui**
 - 🐧 Ambiente de desenvolvimento: Linux Mint, VS Code, GitHub Desktop
@@ -57,11 +57,8 @@ Landing page completa para academia de esportes, construída do zero com foco em
   <img alt="Next.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img alt="Node.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Tailwind" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Sass" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="Figma" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img alt="Linux" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ---
@@ -87,11 +84,11 @@ Landing page completa para academia de esportes, construída do zero com foco em
 
 ## 🚀 About Me
 
-I'm an IT student and developer focused on **front-end and back-end**, building real-world projects with **Next.js, TypeScript, React, and Node.js**. I enjoy turning ideas into functional products — from design to deployment.
+I'm a Computer Science / Systems Analysis and Development student and developer focused on **front-end and back-end**, building real-world projects with **Next.js, TypeScript, React, and Node.js**. I enjoy turning ideas into functional products — from design to deployment.
 
 Currently open to **opportunities, projects, and collaborations** in web development.
 
-- 🎓 Studying IT (cloud computing, information security, networking, C, databases)
+- 🎓 Studying Systems Analysis and Development (cloud computing, information security, networking, C, databases)
 - 💻 Working on freelance website projects for small businesses
 - 🛠️ Main stack: **Next.js · TypeScript · Tailwind · Framer Motion · shadcn/ui**
 - 🐧 Dev environment: Linux Mint, VS Code, GitHub Desktop
