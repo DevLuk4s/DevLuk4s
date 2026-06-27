@@ -27,13 +27,11 @@ Atualmente buscando **oportunidades, projetos e parcerias** na área de desenvol
 
 ## 🌟 Projeto em destaque
 
-### [Honrados Academia de Esportes](#) — Landing Page
+### [Honrados Academia de Esportes](https://honrados-landing-page.vercel.app/) — Landing Page
 Landing page completa para academia de esportes, construída do zero com foco em performance e experiência visual.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
-**Deploy:** Vercel com domínio customizado
-
-> 🔗 *Adicione aqui o link do repositório e/ou do site publicado*
+**🔗 Acesse:** [honrados-landing-page.vercel.app](https://honrados-landing-page.vercel.app/)
 
 ---
 
@@ -95,11 +93,11 @@ Currently open to **opportunities, projects, and collaborations** in web develop
 
 ## 🌟 Featured Project
 
-### Honrados Academia de Esportes — Landing Page
+### [Honrados Academia de Esportes](https://honrados-landing-page.vercel.app/) — Landing Page
 A complete landing page for a sports academy, built from scratch with a focus on performance and visual experience.
 
 **Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui
-**Deploy:** Vercel with custom domain
+**🔗 Live:** [honrados-landing-page.vercel.app](https://honrados-landing-page.vercel.app/)
 
 ## 📫 Get in Touch
 
